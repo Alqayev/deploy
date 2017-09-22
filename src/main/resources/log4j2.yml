@@ -1,0 +1,24 @@
+#log4j.rootLogger=INFO, CONSOLE
+#log4j.appender.CONSOLE=org.apache.log4j.ConsoleAppender
+#log4j.appender.CONSOLE.layout=org.apache.log4j.EnhancedPatternLayout
+#log4j.appender.CONSOLE.layout.ConversionPattern=%d{ABSOLUTE} %-5p [%c{1}:%L] %m%n
+#log4j.logger.de.hunsicker.jalopy=WARN
+
+Configuration:
+  Appenders:
+    Console:
+      PatternLayout:
+        pattern: '%d{yyyy-MMM-dd HH:mm:ss a} [%t] %-5level %logger{36} - %msg%n'
+      name: Console
+      target: SYSTEM_OUT
+    File:
+      PatternLayout:
+        pattern: '%d{yyyy-MMM-dd HH:mm:ss a} [%t] %-5level %logger{36} - %msg%n'
+      name: File
+      fileName: app.log
+  Loggers:
+    Root:
+      AppenderRef:
+      - ref: Console
+      - ref: File
+      level: trace

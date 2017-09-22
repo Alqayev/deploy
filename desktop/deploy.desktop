@@ -1,0 +1,6 @@
+[Desktop Entry]
+ Type=Application
+ Terminal=false
+ Name=deploy
+ Exec=/home/ubuntu/IdeaProjects/adjust/deploy/target/deploy-1.0.0.jar
+ Icon=/home/ubuntu/IdeaProjects/adjust/deploy/desktop/Oxygen-Icons.org-Oxygen-Apps-nepomuk.ico

@@ -1,0 +1,44 @@
+2017-Jun-20 00:20:03 AM [main] ERROR az.com.dodo.deploy.controller.DeployController - ok
+2017-Jun-20 01:15:24 AM [main] ERROR az.com.dodo.deploy.controller.DeployController - ok
+2017-Jun-20 01:15:24 AM [main] DEBUG az.com.dodo.deploy.controller.DeployController - ----
+2017-Jun-20 01:41:50 AM [main] ERROR az.com.dodo.deploy.controller.DeployController - ok
+2017-Jun-20 01:41:50 AM [main] DEBUG az.com.dodo.deploy.controller.DeployController - ----
+2017-Jun-20 01:41:50 AM [main] ERROR az.com.dodo.deploy.controller.DeployController - Catching
+java.lang.Throwable: null
+	at az.com.dodo.deploy.controller.DeployController.main(DeployController.java:82) [classes/:?]
+2017-Jun-20 11:02:55 AM [main] ERROR Connection class az.com.dodo.deploy.controller.DeployController - ok
+2017-Jun-20 11:02:55 AM [main] DEBUG Connection class az.com.dodo.deploy.controller.DeployController - ----
+2017-Jun-20 11:02:55 AM [main] ERROR Connection class az.com.dodo.deploy.controller.DeployController - Catching
+java.lang.Throwable: null
+	at az.com.dodo.deploy.controller.DeployController.main(DeployController.java:77) [classes/:?]
+2017-Jun-23 12:46:24 PM [JavaFX Application Thread] INFO  az.com.dodo.deploy.controller.DeployController - ***  Script file /home/ubuntu/IdeaProjects/adjust/deploy/target/classes/scripts/ubuntu/uploadwar.sh ***
+2017-Jun-23 12:48:23 PM [JavaFX Application Thread] INFO  az.com.dodo.deploy.controller.DeployController - ***  Script file /home/ubuntu/IdeaProjects/adjust/deploy/target/classes/scripts/ubuntu/uploadwar.sh ***
+2017-Jun-23 12:49:27 PM [JavaFX Application Thread] INFO  az.com.dodo.deploy.controller.DeployController - ***  Script file /home/ubuntu/IdeaProjects/adjust/deploy/target/classes/scripts/ubuntu/uploadwar.sh ***
+2017-Jun-23 13:02:29 PM [JavaFX Application Thread] INFO  az.com.dodo.deploy.controller.DeployController - ***  Script file /home/ubuntu/IdeaProjects/adjust/deploy/target/classes/scripts/ubuntu/uploadwar.sh ***
+2017-Jun-23 13:02:44 PM [JavaFX Application Thread] INFO  az.com.dodo.deploy.controller.DeployController - ***  Script file /home/ubuntu/IdeaProjects/adjust/deploy/target/classes/scripts/ubuntu/uploadwar.sh ***
+2017-Jun-23 13:05:23 PM [JavaFX Application Thread] INFO  az.com.dodo.deploy.controller.DeployController - ***  Script file /home/ubuntu/IdeaProjects/adjust/deploy/target/classes/scripts/ubuntu/uploadwar.sh ***
+2017-Jun-23 13:05:32 PM [JavaFX Application Thread] INFO  az.com.dodo.deploy.controller.DeployController - ***  Script file /home/ubuntu/IdeaProjects/adjust/deploy/target/classes/scripts/ubuntu/uploadwar.sh ***
+2017-Jun-23 14:45:39 PM [JavaFX Application Thread] INFO  az.com.dodo.deploy.controller.DeployController - ***  Script file /home/ubuntu/IdeaProjects/adjust/deploy/target/classes/scripts/ubuntu/uploadwar.sh ***
+2017-Jun-23 14:49:33 PM [JavaFX Application Thread] INFO  az.com.dodo.deploy.controller.DeployController - ***  Script file /home/ubuntu/IdeaProjects/adjust/deploy/target/classes/scripts/ubuntu/uploadwar.sh ***
+2017-Jun-23 15:39:49 PM [JavaFX Application Thread] INFO  az.com.dodo.deploy.controller.DeployController - ***  Script file /home/ubuntu/IdeaProjects/adjust/deploy/target/classes/scripts/ubuntu/uploadwar.sh ***
+2017-Jun-26 18:04:32 PM [JavaFX Application Thread] INFO  az.com.dodo.deploy.controller.DeployController - ***  Script file /home/ubuntu/IdeaProjects/adjust/deploy/target/classes/scripts/ubuntu/uploadwar.sh ***
+2017-Jun-26 18:49:09 PM [JavaFX Application Thread] INFO  az.com.dodo.deploy.controller.DeployController - ***  Script file /home/ubuntu/IdeaProjects/adjust/deploy/target/classes/scripts/ubuntu/uploadwar.sh ***
+2017-Jun-26 18:53:06 PM [JavaFX Application Thread] INFO  az.com.dodo.deploy.controller.DeployController - ***  Script file /home/ubuntu/IdeaProjects/adjust/deploy/target/classes/scripts/ubuntu/uploadwar.sh ***
+2017-Jun-26 18:58:23 PM [JavaFX Application Thread] INFO  az.com.dodo.deploy.controller.DeployController - ***  Script file /home/ubuntu/IdeaProjects/adjust/deploy/target/classes/scripts/ubuntu/uploadwar.sh ***
+2017-Jun-26 19:23:19 PM [JavaFX Application Thread] INFO  az.com.dodo.deploy.controller.DeployController - ***  Script file /home/ubuntu/IdeaProjects/adjust/deploy/target/classes/scripts/ubuntu/uploadwar.sh ***
+2017-Jun-26 19:23:39 PM [JavaFX Application Thread] INFO  az.com.dodo.deploy.controller.DeployController - ***  Script file /home/ubuntu/IdeaProjects/adjust/deploy/target/classes/scripts/ubuntu/uploadwar.sh ***
+2017-Jun-26 19:24:59 PM [JavaFX Application Thread] INFO  az.com.dodo.deploy.controller.DeployController - ***  Script file /home/ubuntu/IdeaProjects/adjust/deploy/target/classes/scripts/ubuntu/uploadwar.sh ***
+2017-Jun-26 19:25:45 PM [JavaFX Application Thread] INFO  az.com.dodo.deploy.controller.DeployController - ***  Script file /home/ubuntu/IdeaProjects/adjust/deploy/target/classes/scripts/ubuntu/uploadwar.sh ***
+2017-Jun-26 19:28:07 PM [JavaFX Application Thread] INFO  az.com.dodo.deploy.controller.DeployController - ***  Script file /home/ubuntu/IdeaProjects/adjust/deploy/target/classes/scripts/ubuntu/uploadwar.sh ***
+2017-Jun-26 19:31:53 PM [JavaFX Application Thread] INFO  az.com.dodo.deploy.controller.DeployController - ***  Script file /home/ubuntu/IdeaProjects/adjust/deploy/target/classes/scripts/ubuntu/uploadwar.sh ***
+2017-Jun-26 19:32:23 PM [JavaFX Application Thread] INFO  az.com.dodo.deploy.controller.DeployController - ***  Script file /home/ubuntu/IdeaProjects/adjust/deploy/target/classes/scripts/ubuntu/uploadwar.sh ***
+2017-Jun-26 19:33:25 PM [JavaFX Application Thread] INFO  az.com.dodo.deploy.controller.DeployController - ***  Script file /home/ubuntu/IdeaProjects/adjust/deploy/target/classes/scripts/ubuntu/uploadwar.sh ***
+2017-Jun-26 19:34:55 PM [JavaFX Application Thread] INFO  az.com.dodo.deploy.controller.DeployController - ***  Script file /home/ubuntu/IdeaProjects/adjust/deploy/target/classes/scripts/ubuntu/uploadwar.sh ***
+2017-Jun-26 19:38:28 PM [JavaFX Application Thread] INFO  az.com.dodo.deploy.controller.DeployController - ***  Script file /home/ubuntu/IdeaProjects/adjust/deploy/target/classes/scripts/ubuntu/uploadwar.sh ***
+2017-Jun-26 19:39:51 PM [JavaFX Application Thread] INFO  az.com.dodo.deploy.controller.DeployController - ***  Script file /home/ubuntu/IdeaProjects/adjust/deploy/target/classes/scripts/ubuntu/uploadwar.sh ***
+2017-Jun-26 20:19:00 PM [JavaFX Application Thread] INFO  az.com.dodo.deploy.controller.DeployController - ***  Script file /home/ubuntu/IdeaProjects/adjust/deploy/target/classes/scripts/ubuntu/uploadwar.sh ***
+2017-Jun-26 20:30:59 PM [JavaFX Application Thread] INFO  az.com.dodo.deploy.controller.DeployController - ***  Script file /home/ubuntu/IdeaProjects/adjust/deploy/target/classes/scripts/ubuntu/uploadwar.sh ***
+2017-Jun-26 20:41:54 PM [JavaFX Application Thread] INFO  az.com.dodo.deploy.controller.DeployController - ***  Script file /home/ubuntu/IdeaProjects/adjust/deploy/target/classes/scripts/ubuntu/uploadwar.sh ***
+2017-Jun-26 20:46:19 PM [JavaFX Application Thread] INFO  az.com.dodo.deploy.controller.DeployController - ***  Script file /home/ubuntu/IdeaProjects/adjust/deploy/target/classes/scripts/ubuntu/uploadwar.sh ***
+2017-Jun-26 20:46:24 PM [JavaFX Application Thread] INFO  az.com.dodo.deploy.controller.DeployController - ***  Script file /home/ubuntu/IdeaProjects/adjust/deploy/target/classes/scripts/ubuntu/uploadwar.sh ***
+2017-Jun-26 20:48:35 PM [JavaFX Application Thread] INFO  az.com.dodo.deploy.controller.DeployController - ***  Script file /home/ubuntu/IdeaProjects/adjust/deploy/target/classes/scripts/ubuntu/uploadwar.sh ***
